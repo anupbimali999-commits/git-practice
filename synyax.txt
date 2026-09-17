@@ -1,0 +1,14 @@
+1. Create
+   python -m venv venv
+
+2. Activate
+   venv\Scripts\activate.bat
+
+3. Install packages
+   pip install requests
+
+4. Check packages
+   pip list
+
+5. Leave environment
+   deactivate

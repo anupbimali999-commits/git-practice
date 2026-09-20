@@ -13,3 +13,4 @@
 5. Leave environment
    deactivate
 git is pretty cool
+I am practicing git 
